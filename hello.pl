@@ -2,4 +2,4 @@
 use strict;
 use warnings;
 
-print "Hello\n";
+print "Hello, GitHub!\n";
